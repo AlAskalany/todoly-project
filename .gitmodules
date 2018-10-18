@@ -1,0 +1,12 @@
+[submodule "ToDolyConsoleApp"]
+	path = ToDolyConsoleApp
+	url = https://github.com/AlAskalany/todoly-console-app.git
+[submodule "ToDoLibrary"]
+	path = ToDoLibrary
+	url = https://github.com/AlAskalany/todo-library.git
+[submodule "PersistenceLibrary"]
+	path = PersistenceLibrary
+	url = https://github.com/AlAskalany/persistence-library.git
+[submodule "ConsoleAppLibrary"]
+	path = ConsoleAppLibrary
+	url = https://github.com/AlAskalany/console-app-library.git
